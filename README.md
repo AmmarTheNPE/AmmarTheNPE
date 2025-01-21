@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm Ali Ammar 👋
 
-<!--
-**AmmarTheNPE/AmmarTheNPE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a full-stack developer with a passion for building efficient, scalable, and user-friendly applications. With experience across multiple languages and frameworks, I love crafting both the backend and frontend of web and mobile applications.
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 I’m currently working on various full-stack projects utilizing **React.js**, **Next.js**, **Spring Boot**, and **Fastify**.
+- 🌱 I’m currently learning new techniques in **microservices** and **cloud-based development** to enhance scalability.
+- 💻 I have experience developing native Android apps using **Java**.
+- ⚡ I’m passionate about creating seamless user experiences, optimizing performance, and writing clean, maintainable code.
+- 📫 How to reach me: [your email or preferred contact method].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Technologies
+- **Frontend**: React.js, Next.js, Remix
+- **Backend**: Spring Boot, Express, Django, Fastify
+- **Mobile Development**: Native Android (Java)
+- **Databases**: MySQL, PostgreSQL
+- **Languages**: Python, Java, JavaScript/TypeScript
+- **Tools & Technologies**: Docker, Git, REST APIs, GraphQL, AWS, CI/CD, Unit Testing

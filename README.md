@@ -1,4 +1,4 @@
-![](https://github.com/AmmarTheNPE/mariodev.gif)
+![](https://github.com/AmmarTheNPE/AmmarTheNPE/blob/main/mariodev.gif)
 # Hello, I'm Ali Ammar 👋
 
 Welcome to my GitHub profile! I'm a full-stack developer with a passion for building efficient, scalable, and user-friendly applications. With experience across multiple languages and frameworks, I love crafting both the backend and frontend of web and mobile applications.

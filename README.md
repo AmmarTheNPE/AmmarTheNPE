@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a full-stack developer with a passion for buil
 - 🌱 I’m currently learning new techniques in **microservices** and **cloud-based development** to enhance scalability.
 - 💻 I have experience developing native Android apps using **Java**.
 - ⚡ I’m passionate about creating seamless user experiences, optimizing performance, and writing clean, maintainable code.
-- 📫 How to reach me: [your email or preferred contact method].
+- 📫 How to reach me: syed_ammar1997@hotmail.com
 
 ## Skills & Technologies
 - **Frontend**: React.js, Next.js, Remix
